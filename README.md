@@ -4,7 +4,7 @@
 
 This project is designed as simple, there are list and detail screens. The data needed by the screens are taken from `https://api.themoviedb.org/3`.
 
-(DEMO)[https://offwork.github.io/omdb-demo/list]
+[DEMO](https://offwork.github.io/omdb-demo/list)
 
 ## for dependencies
 ```
