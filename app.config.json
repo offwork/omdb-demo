@@ -1,0 +1,12 @@
+{
+  "apiKey": "953a2464a02f8f4d2fd824941816a410",
+  "apiBaseUrl": "https://api.themoviedb.org/3",
+  "posterUrl": "https://image.tmdb.org/t/p/w500",
+  "search": {
+    "Title": "",
+    "Year": "",
+    "imdbID": "",
+    "Type": "",
+    "Poster": ""
+  }
+}
