@@ -1,0 +1,24 @@
+@import '~@angular/material/theming';
+
+.mat-toolbar {
+
+  @include mat-elevation(4);
+
+  .mat-h2 {
+    margin: 0 auto;
+  }
+
+  .tmdb-logo {
+    cursor: pointer;
+    height: auto;
+    width: 42px;
+    margin: auto 0;
+    line-height: 0;
+  }
+}
+
+.content {
+  padding: 32px;
+  height: calc(100% - 128px);
+  overflow: hidden;
+}

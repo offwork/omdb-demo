@@ -1,0 +1,32 @@
+@import '~@angular/material/theming';
+
+.details {
+  display: flex;
+
+  .poster {
+
+    @include mat-elevation(4);
+
+    max-width: 240px;
+    min-width: 240px;
+    overflow: hidden;
+    max-height: 360px;
+    border-radius: 10px;
+
+    > img {
+      min-width: 240px;
+      height: 360px;
+    }
+  }
+
+  .info {
+    margin-left: 32px;
+
+    .firms {
+
+      padding: 0;
+      list-style: inside;
+      line-height: 2;
+    }
+  }
+}
